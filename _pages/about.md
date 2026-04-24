@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Welcome!"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,6 +9,6 @@ redirect_from:
 
 I am a Ph.D. Candidate in Economics at Texas A&M University.
 
-My research interests are urban economics, energy economics, and structural microeconometrics. My current research studies how urban fracking affects residential sorting, housing markets, and welfare.
+I focus on topics surrounding inequalities and energy/environmental issues. 
 
-[Download CV](/files/Academic_CV_Cho.pdf)
+You can download my CV [HERE](/files/Academic_CV_Cho.pdf)

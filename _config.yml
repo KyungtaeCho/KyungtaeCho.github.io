@@ -12,11 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Kyung Tae Cho"
 title_separator          : "-"
 name                     : &name "Kyung Tae Cho"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : "Personal website of Kyung Tae Cho"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://kyungtaecho.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kyungtaecho/kyungtaecho.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Kyung Tae Cho"
   pronouns         : # example: "she/her"  
-  bio              : "Fifth year economics Phd Candidate at Texas A&M University"
+  bio              : "Fifth-year Ph.D. Candidate in Economics at Texas A&M University"
   location         : "College Station, TX"
   employer         : "Texas A&M University"
   uri              : "https://kyungtaecho.github.io"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/ktcho"
+  linkedin         : "ktcho"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

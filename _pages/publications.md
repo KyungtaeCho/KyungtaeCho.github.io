@@ -23,6 +23,9 @@ This paper investigates the welfare implications of urban fracking on nearby res
 
 ### Common Global Warming, Unequal Consequences in Local Income (with Yeonjik Lee)
 
+**Abstract.**
+We examine how the effects of global temperature shocks on income differ by group. Using disaggregated monthly income data and shocks in global temperature, we find robust evidence of rising global temperature widening the gap of income inequality. Following positive global temperature shocks, income losses are disproportionately concentrated among lower-income groups, while higher-income groups are less affected. These effects are considerably larger and more persistent for labor income than for capital income, indicating that climate shocks primarily operate through labor-market channels. Our findings highlight that income group structure is a key determinant of how climate shocks translate into distributional outcomes.
+
 ---
 
 ## Work in Progress

@@ -35,8 +35,8 @@ Texas A&M University, Fall 2022
 **ECON 323: Microeconomic Theory**  
 Texas A&M University, Spring 2021
 
+**Industrial Organization**  
+Sungkyunkwan University, Spring 2020
+
 **Statistical Analysis for Economics**  
 Sungkyunkwan University, Spring 2019
-
-**Industrial Organization**  
-Sungkyunkwan University

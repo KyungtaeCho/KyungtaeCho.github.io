@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-### A Dynamic Model of Residential Sorting Using Aggregate Data: Urban Fracking and Environmental Justice in North Texas
+### A Dynamic Model of Residential Sorting Using Aggregate Data: Welfare Implications of Urban Fracking
 Presented in 2025 SEA Annual Meeting, and 2025 CU Environmental and Resource Economics Workshop.
 
 [Slides](/files/JMP_Slides_SEA.pdf){: .btn}

@@ -29,9 +29,6 @@ This paper investigates the welfare implications of urban fracking on nearby res
 
 ### Heat or Eat? Household Temperature Choice and Energy Burden of U.S. Low-Income Households
 
-**Abstract.**  
-[Insert abstract here.]
-
 ---
 
 ### Fracking the Future: The Long-run Implication of Urban Fracking on Student's Academic Performance (with Daeun Sung)

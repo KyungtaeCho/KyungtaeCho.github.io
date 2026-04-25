@@ -21,23 +21,14 @@ This paper investigates the welfare implications of urban fracking on nearby res
 
 ## Working Papers
 
-### Common Global Warming, Unequal Consequences in Local Income
+### Common Global Warming, Unequal Consequences in Local Income (with Yeonjik Lee)
 
-**with Yeonjik Lee**
 
-**Abstract.**  
-[Insert abstract here.]
-
----
-
-### An Empirical Model of Information and Price Dispersion in South Korean Retail Gasoline Market
-
-**Pre-doctoral work**
 
 **Abstract.**  
 [Insert abstract here.]
 
----
+
 
 ## Work in Progress
 
@@ -48,12 +39,7 @@ This paper investigates the welfare implications of urban fracking on nearby res
 
 ---
 
-### Fracking the Future: The Long-run Implication of Urban Fracking on Student's Academic Performance
-
-**with Daeun Sung**
-
-**Abstract.**  
-[Insert abstract here.]
+### Fracking the Future: The Long-run Implication of Urban Fracking on Student's Academic Performance (with Daeun Sung)
 
 ---
 
@@ -61,3 +47,12 @@ This paper investigates the welfare implications of urban fracking on nearby res
 
 **Abstract.**  
 [Insert abstract here.]
+
+
+---
+## Pre-Doctoral Working Papers
+
+### An Empirical Model of Information and Price Dispersion in South Korean Retail Gasoline Market
+Pre-doctoral work, resting. Draft available upon request.
+
+---

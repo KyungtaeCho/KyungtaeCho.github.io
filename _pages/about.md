@@ -11,7 +11,7 @@ Hello and welcome to my website!
 
 I am a Ph.D. Candidate in Economics at Texas A&M University. Most people who know me in person call me KT, and you are welcome to do the same.
 
-My research can be categorized as energy economics, environmental economics, and industrial organizationm, with keen interest in inequalities. I structural economic models to study how households and markets respond to environmental risks, energy costs, and local policy changes.
+My research can be categorized as energy economics, environmental economics, and industrial organisationm, with keen interest in inequalities. I use structural economic models to study how households and markets respond to environmental risks, energy costs, and local policy changes.
 
 I will be on the 2026-2027 job market.
 

@@ -10,8 +10,6 @@ author_profile: true
 ### A Dynamic Model of Residential Sorting Using Aggregate Data: Welfare Implications of Urban Fracking
 Presented in 2025 SEA Annual Meeting, and 2025 CU Environmental and Resource Economics Workshop.
 
-[Slides](/files/JMP_Slides_SEA.pdf){: .btn}
-[Poster](/files/KTCho_Poster.pdf){: .btn}
 [Current Draft (To Be Polished)](/files/JMP_Draft_Cho.pdf){: .btn .btn--primary}
 
 **Abstract.**  

@@ -10,7 +10,7 @@ author_profile: true
 ### A Dynamic Model of Residential Sorting Using Aggregate Data: Welfare Implications of Urban Fracking
 Presented in 2025 SEA Annual Meeting, and 2025 CU Environmental and Resource Economics Workshop.
 
-[Current Draft (To Be Polished)](/files/JMP_Draft_Cho.pdf){: .btn .btn--primary}
+[Current Draft (To Be Polished/Frequently Updated)](/files/JMP_Draft_Cho.pdf){: .btn .btn--primary}
 
 **Abstract.**  
 This paper investigates the welfare implications of urban fracking on nearby residents by developing a dynamic residential sorting equilibrium model that only requires aggregate census data. The model incorporates forward-looking household behavior, moving costs, and housing market general equilibrium dynamics. I propose novel methods for estimation and counterfactual analysis that circumvent the curse of dimensionality in single-agent dynamic discrete choice models, enabling tractable analysis of this class of models in high-dimensional state spaces. Model estimates reveal a sizeable overall willingness to avoid proximity to shale gas wells, along with substantial racial heterogeneity in preferences.  While counterfactual simulations show an aggregate welfare loss from urban fracking, they also reveal sharp variation in welfare losses and gains across racial groups, and the potential for gentrification pressures resulting from targeted fracking bans in minority communities.

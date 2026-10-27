@@ -7,8 +7,8 @@ author_profile: true
 
 ## Job Market Paper
 
-### A Dynamic Model of Residential Sorting Using Aggregate Data: Welfare Implications of Urban Fracking
-Presented in 2025 SEA Annual Meeting, and 2025 CU Environmental and Resource Economics Workshop.
+### Sorting into Exposure: Inequality and Welfare Effects of Urban Fracking in Dynamic Equilibrium
+Presented in 2026 MEG Annual Meeting, 2025 SEA Annual Meeting, and 2025 CU Environmental and Resource Economics Workshop.
 
 [Current Draft (To Be Polished/Frequently Updated)](/files/JMP_Draft_Cho.pdf){: .btn .btn--primary}
 
@@ -28,15 +28,15 @@ We examine how the effects of global temperature shocks on income differ by grou
 
 ## Work in Progress
 
+### Machine Learning Machines: Strategic Interactions and Learning of AI Agents in Competitive Markets (with Steve Puller)
+
+---
+
+### Who Keeps the Shale Windfall? Evidence from Public Expenditures in Texas (with Taewon Hwang)
+
+---
+
 ### Heat or Eat? Household Temperature Choice and Energy Burden of U.S. Low-Income Households
-
----
-
-### Fracking the Future: The Long-run Implication of Urban Fracking on Student's Academic Performance (with Daeun Sung)
-
----
-
-### Emulating the Invisible Hand: The Case of Electricity Usage of Bitcoin Miners in Texas
 
 ---
 

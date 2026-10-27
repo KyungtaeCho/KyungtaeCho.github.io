@@ -10,7 +10,7 @@ author_profile: true
 ### Sorting into Exposure: Inequality and Welfare Effects of Urban Fracking in Dynamic Equilibrium
 Presented in 2026 MEG Annual Meeting, 2025 SEA Annual Meeting, and 2025 CU Environmental and Resource Economics Workshop.
 
-[Current Draft (To Be Polished/Frequently Updated)](/files/JMP_Draft_Cho.pdf){: .btn .btn--primary}
+[Latest Draft (Updated Frequently)](/files/JMP_Draft_Cho.pdf){: .btn .btn--primary}
 
 **Abstract.**  
 Urban fracking creates a local environmental disamenity, but its welfare consequences ultimately depend on how residents sort across neighborhoods, how rents and neighborhood composition adjust, and how residents value those changes over time. I study these forces in Tarrant County, Texas, using a dynamic residential sorting equilibrium model. Fracking restrictions reduce environmental exposure but generate heterogeneous welfare effects across demographic groups through equilibrium adjustments in rents and neighborhood composition and changes in expected future neighborhood values. A targeted ban in neighborhoods with high concentrations of poor Hispanic residents raises rents and induces poor Hispanic residents to move out, thereby leaving the policy's intended beneficiaries worse off. Tightening well-entry along the profitability margin benefits every demographic group in a myopic residential sorting model but makes some minority groups worse off when residents are forward-looking. Methodologically, I develop tractable procedures for estimating dynamic residential sorting and solving equilibrium counterfactuals using only aggregate location shares and moving probabilities, both commonly available in conventional census data.

@@ -28,7 +28,7 @@ We examine how the effects of global temperature shocks on income differ by grou
 
 ---
 
-## Work in Progress
+## Works in Progress
 
 ### Machine Learning Machines: Strategic Interactions and Learning of AI Agents in Competitive Markets (with Steve Puller)
 

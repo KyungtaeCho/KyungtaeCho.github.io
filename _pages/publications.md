@@ -8,7 +8,8 @@ author_profile: true
 ## Job Market Paper
 
 ### Sorting into Exposure: Inequality and Welfare Effects of Urban Fracking in Dynamic Equilibrium
-Presented in 2026 MEG Annual Meeting, 2025 SEA Annual Meeting, and 2025 CU Environmental and Resource Economics Workshop.
+Presented in 2026 NTxEC Conference, 2026 MEG Annual Meeting, 2025 SEA Annual Meeting, and 2025 CU Environmental and Resource Economics Workshop.
+Winner of NTxEC Best Paper Award (Graduate Student ).
 
 [Latest Draft (Updated Frequently)](/files/JMP_Draft_Cho.pdf){: .btn .btn--primary}
 

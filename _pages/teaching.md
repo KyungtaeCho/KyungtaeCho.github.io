@@ -42,12 +42,19 @@ Sungkyunkwan University, Spring 2020
 Sungkyunkwan University, Spring 2019
 
 ## Student Comments
+
 •  “Dr.KT did a good job of explaining the concepts to the class, and he always had good prepared material for the lectures.”
+
 •  “Videos and reading material that was provided was very unbiased because the prof wanted to stay away from politics which helped us have a neutral stance on controversial topics or important historical events.”
+
 •  “Dr. KT always encouraged discussion on the topics that we were looking at and I thought that was a good and engaging approach for me.”
+
 •  “KT really wanted us to ask a lot of questions and try to answer his in class questions, and I think even if we answered wrong, he would try to understand why we got to that answer or try to see our perspective and then try to explain why he could be wrong so I appreciated his open perspective”
+
 •  “He did an amazing job of pausing for questions even though we didn't have any. I also felt that we wouldn't be criticized for having 'dumb' questions either.”
+
 •  “I like how he would provide simple concepts/examples to understand the bigger picture.”
+
 •  “I appreciated how engaged and helpful he was during recitations. He taught the material well, and answered emails very promptly and effectively. He was a great TA!”
 
 

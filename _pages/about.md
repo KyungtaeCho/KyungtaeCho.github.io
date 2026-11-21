@@ -13,6 +13,8 @@ I am a Ph.D. candidate in economics at Texas A&M University. Most people who kno
 
 My research spans energy economics, environmental economics, and industrial organization, with a keen interest in inequalities. I use structural economic models to study how households and markets respond to environmental risks, energy costs, and local policy changes. 
 
+My job market paper, “[Sorting into Exposure: Inequality and Welfare Effects of Urban Fracking in Dynamic Equilibrium](https://kyungtaecho.github.io/files/JMP_Draft_Cho.pdf),” studies how urban fracking and policies that regulate it affect nearby residents’ welfare in a dynamic equilibrium framework. I develop a novel method to estimate a dynamic residential sorting model using only publicly available aggregate census data and a tractable approach to computing dynamic equilibrium counterfactuals. The paper received the 2026 NTxEC Best Paper Award. You can watch my 15 minute video presentation [here](https://www.youtube.com/watch?v=vRVu-M7392I).
+
 I am on the 2026–2027 academic job market.
 
 ## Research Interests

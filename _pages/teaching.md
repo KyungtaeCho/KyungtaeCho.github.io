@@ -49,7 +49,7 @@ Sungkyunkwan University, Spring 2019
 
 •  “Dr. KT always encouraged discussion on the topics that we were looking at and I thought that was a good and engaging approach for me.”
 
-•  “KT really wanted us to ask a lot of questions and try to answer his in class questions, and I think even if we answered wrong, he would try to understand why we got to that answer or try to see our perspective and then try to explain why he could be wrong so I appreciated his open perspective” (Context: I often encouraged my students to actively think about theory v.s. reality where the assumptions fail, and related empirical evidence)
+•  “KT really wanted us to ask a lot of questions and try to answer his in class questions, and I think even if we answered wrong, he would try to understand why we got to that answer or try to see our perspective and then try to explain why he could be wrong so I appreciated his open perspective” (Context: I often encouraged my students to critically examine the gap between theory and reality, focusing on where theoretical assumptions break down and the relevant empirical evidence.)
 
 •  “He did an amazing job of pausing for questions even though we didn't have any. I also felt that we wouldn't be criticized for having 'dumb' questions either.”
 
